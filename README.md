@@ -1,0 +1,1 @@
+This is a compilation of my folders -- learning javascript aspirirng to be a fullstack web developer
